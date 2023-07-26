@@ -59,8 +59,8 @@
 ### 3. 파생변수 생성
 1) Total time : 도착시간 - 출발 시간
 2) Departure_Hour, Departure_Minute, Arrival_Hour, Arrival_Minute
-3) Departure_Time : Departure Time(0-2,3-5,6-8,9-11,12-14,15-17,18-20,21-24)
-4) Arrival_Time : Arrival Time(0~2,3~5,6~8,9~11,12~14,15~17,18~20,21~24)
+3) Departure_Time : Departure Hour(0-2,3-5,6-8,9-11,12-14,15-17,18-20,21-24)
+4) Arrival_Time : Arrival Hour(0-2,3-5,6-8,9-11,12-14,15-17,18-20,21-24)
 
 ### 4. 사용 변수 추출
 - 'Month'
