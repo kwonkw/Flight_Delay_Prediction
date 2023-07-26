@@ -82,8 +82,8 @@
        - 각 라벨의 횟수 혹은 출현 빈도로 범주형 변수를 대체하는 방법
        - 학습 데이터와 테스트 데이터를 결합하여 변환
        - 각 라벨의 출현 빈빈도와 목적변수 간에 관련성이 있을 때 유효
-  - 원핫인코딩(One-hot-encoding)
-      - 출현 빈도가 적은 변수에 한해 One-hot-encoding 진행
+    - 원핫인코딩(One-hot-encoding)
+        - 출현 빈도가 적은 변수에 한해 One-hot-encoding 진행
 2. Min-max scaling
    - 수치형 데이터에 한해 min-max scaling 진행
 
