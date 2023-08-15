@@ -94,6 +94,10 @@
    - catboost <br>
    - svm <br>
 
+### 7. Voting
+
+  - 세 가지 모델을 Hard Voting으로 앙상블하여 종합 예측을 수행
+
 ### 7. 불균형 데이터 
 ![다운로드 (1)](https://github.com/ssyeon2/Flight-Delay-Prediction/assets/105052724/963fc5ef-6662-4df5-8b36-148d985ac57a)
 - SMOTE 사용
