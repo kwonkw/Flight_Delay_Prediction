@@ -63,18 +63,19 @@
 4) Arrival_Time : Arrival Hour(0-2,3-5,6-8,9-11,12-14,15-17,18-20,21-24)
 
 ### 4. 사용 변수 추출
-- 'Month'
-- 'Origin_State'
 - 'Origin_Airport'
-- 'Destination_State'
+- 'Origin_State'
 - 'Destination_Airport'
-- 'Distance', 'Airline'
-- 'Total_Time'
-- 'dep_hour'
-- 'arr_hour'
-- 'Tail_Number'
+- 'Destination_State'
+- 'Distance'
+- 'Airline'
+- 'Carrier_ID(DOT)'
+- 'Total_time'
+- 'Month'
+- 'Departure_Hour'
+- 'Arrival_Hour'
 - 'Delay'
-
+  
 ### 5. 스케일링
 1. 범주화
    - 범주 컬럼이 너무 많은 관계로 get_dummies 사용시 Ram 부족 현상 발생
