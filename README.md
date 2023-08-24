@@ -20,8 +20,6 @@
 <br>
 
 **사용 툴**
-- 협업 툴 : Notion <br>
-  https://www.notion.so/2bf63c4ae47c487a8c4b1c13d2263c71?v=fd1ad63c456a432b912c29cc246937c6&pvs=4
 - Google colab
 <br>
 
