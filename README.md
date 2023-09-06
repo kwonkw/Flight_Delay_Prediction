@@ -90,7 +90,7 @@
 **selftraining** <br>
    - randomforest <br>
    - catboost <br>
-   - svm <br>
+   - decisiontree <br>
 
 ### 7. Voting
 <img width="1229" alt="스크린샷 2023-08-16 오전 1 08 40" src="https://github.com/kwonkw/flight_delay_prediction/assets/131172214/290fc2a2-c164-4add-abf9-3f2555c1195c">
