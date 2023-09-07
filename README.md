@@ -87,14 +87,14 @@
    - 수치형 데이터에 한해 min-max scaling 진행
 
 ### 6. 비지도 학습
-**selftraining** <br>
-   - randomforest <br>
-   - catboost <br>
-   - decisiontree <br>
+selftraining <br>
+   - randomforest 정확도 0.818<br>
+   - **catboost 정확도 0.827**<br>
+   - decisiontree 정확도 0.713<br>
 
 ### 7. Voting
-<img width="1229" alt="스크린샷 2023-08-16 오전 1 08 40" src="https://github.com/kwonkw/flight_delay_prediction/assets/131172214/290fc2a2-c164-4add-abf9-3f2555c1195c">
-  - 세 가지 모델을 Hard Voting으로 앙상블하여 종합 예측을 수행
+<img width="1229" alt="스크린샷 2023-08-16 오전 1 08 40" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/b259330a-4d84-48c1-b41a-317dbb74d9de">
+  - 세 가지 모델을 Hard Voting /Soft Voting 으로 앙상블하여 정확도를 확인해 본 결과 0.822
 
 ### 7. 불균형 데이터 
 ![다운로드 (1)](https://github.com/ssyeon2/Flight-Delay-Prediction/assets/105052724/963fc5ef-6662-4df5-8b36-148d985ac57a)
