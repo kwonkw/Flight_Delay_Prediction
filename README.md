@@ -93,7 +93,8 @@ selftraining <br>
    - decisiontree 정확도 0.713<br>
 
 ### 7. Voting
-<img width="1229" alt="스크린샷 2023-08-16 오전 1 08 40" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/b259330a-4d84-48c1-b41a-317dbb74d9de">
+<img width="570" alt="스크린샷 2023-09-08 오전 4 42 57" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/b259330a-4d84-48c1-b41a-317dbb74d9de">
+
   - 세 가지 모델을 Hard Voting /Soft Voting 으로 앙상블하여 정확도를 확인해 본 결과 0.822
 
 ### 7. 불균형 데이터 
