@@ -93,18 +93,18 @@ selftraining <br>
    - decisiontree 정확도 0.713<br>
 
 ### 7. Voting
-  - 세 가지 모델을 Hard Voting /Soft Voting 으로 앙상블
+  - 세 가지 모델을 Hard Voting /Soft Voting 으로 앙상블<br>
 
 
-<img width="450" alt="스크린샷 2023-09-08 오전 4 42 57" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/b259330a-4d84-48c1-b41a-317dbb74d9de">
+<img width="450" alt="스크린샷 2023-09-08 오전 4 42 57" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/b259330a-4d84-48c1-b41a-317dbb74d9de"><br>
 
-> ** 가장 높은 정확도를 가진 selftraining(CatBoostclf)로 모델 선정
+> ** 가장 높은 정확도를 가진 selftraining(CatBoostclf)로 모델 선정<br>
 
 ### 8. 불균형 데이터 
 
-<img width="895" alt="스크린샷 2023-09-08 오후 8 45 12" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/a27405f7-34c4-4cf9-9eef-8e97d66970b8">
-- SMOTE 사용
-- Oversamgpling하여 불균형 데이터 처리
+<img width="895" alt="스크린샷 2023-09-08 오후 8 45 12" src="https://github.com/kwonkw/Flight_Delay_Prediction/assets/131172214/a27405f7-34c4-4cf9-9eef-8e97d66970b8"><br>
+  - SMOTE 사용<br>
+  - Oversamgpling하여 불균형 데이터 처리<br>
 
 ### 9. 모델 학습
 - LogLoss 지표에 성능이 좋은 LogisticRegresion 사용
